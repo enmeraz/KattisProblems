@@ -11,4 +11,5 @@
 | Triangle Area | Python | ✅ |
 | Yin and Yang Stones | Python | ✅ |
 | Quadrant Selection | C++ | ✅ |
+| Which is Greater? | Python | ✅ |
 
