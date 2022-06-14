@@ -12,4 +12,4 @@
 | Yin and Yang Stones | Python | ✅ |
 | Quadrant Selection | C++ | ✅ |
 | Which is Greater? | Python | ✅ |
-
+| Sort Two Numbers | Python | ✅ |
