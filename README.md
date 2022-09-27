@@ -16,3 +16,6 @@
 | Sort Two Numbers | Python | ✅ |
 | Problem D Solving for Carrots | Python | ✅ |
 | Problem A Safe Houses | Python | ❌ |
+| Problem B Greeting! | C++ | ✅  |
+| Problem C 8 Queens | C++ | ❌ |
+| Mjehuric | C++ | ❌ |
