@@ -2,7 +2,19 @@
 using namespace std;
 
 int main(){
-    string message;
-    cin >> message;
+
+    char x;
+    cin.get(x);
+    while (x != '\n')
+    {
+        if(x =='e'){
+            cout << x << x;
+        } else {
+            cout << x;
+        }
+        cin.get(x);
+    }
+    cout<< endl;
+    
     return 0;
 }
